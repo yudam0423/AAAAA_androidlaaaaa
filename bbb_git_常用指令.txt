@@ -1,0 +1,16 @@
+yayayyaya
+
+
+Git 常用指令
+
+* 初始化數據庫： git init
+* 開啟 .git 隱藏檔方案
+    * Mac command+shift+.
+* 查詢當前狀態：git status
+    * 要將檔案加入到指定資料夾
+* 將檔案加入到索引：git add .
+* 將索引檔案變成一個更新(commit)：git commit -m "新增網頁環境"
+* 觀察 commit 歷史紀錄： git log
+* 下載遠端數據庫： git clone 數據庫網址
+* 更新遠端數據庫： git push origin master
+
